@@ -108,6 +108,8 @@ CV %<>% print_text_block('recent_professional_experience_aside')
 
 <i class="fa fa-database"></i> **SQL**
 
+**Spark**
+
 <i class="fas fa-chart-bar"></i> **Statistics**
 
 <i class="fas fa-robot"></i> **Machine Learning**
