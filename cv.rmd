@@ -25,7 +25,6 @@ CV <- create_CV_object(
   data_location = "https://docs.google.com/spreadsheets/d/1625aPWEPCCKAgibvFzBx8rzdvYKQ_d8iQqfCBYxQR0M/edit?usp=sharing",  
   pdf_mode = params$pdf_mode
 )
-
 ```
 
 
@@ -63,7 +62,7 @@ Recent professional experience {data-icon=suitcase}
 ::: aside
 **Contact & Portfolio**
 
-<i class="fa fa-home"></i> [lucasmoraes.org](https://lucasmoraes.org)
+<i class="fa fa-home"></i> [lucasmoraes.io](https://lucasmoraes.io)
 
 <i class="fa fa-envelope"></i> moraessaur@gmail.com
 
