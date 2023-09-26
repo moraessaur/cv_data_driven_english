@@ -70,6 +70,8 @@ Recent professional experience {data-icon=suitcase}
 
 <i class="fab fa-linkedin-in"></i> [LinkedIn](https://www.linkedin.com/in/lucas-moraes-78944a32/)
 
+[**Download this CV**](https://raw.githubusercontent.com/moraessaur/cv_english/main/cv_lucas_moraes_en.pdf)
+
 :::
 
 
