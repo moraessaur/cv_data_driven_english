@@ -22,7 +22,7 @@ source("cv_printing_functions.r")
 
 # Read in all data and initialize a CV printer object
 CV <- create_CV_object(
-  data_location = "https://docs.google.com/spreadsheets/d/1625aPWEPCCKAgibvFzBx8rzdvYKQ_d8iQqfCBYxQR0M/edit?usp=sharing",  
+  data_location = "https://docs.google.com/spreadsheets/d/14kGTmkbdcPvun4KlRWy9nfTsVaIdvunwqJF7rMUGYpA/edit?usp=sharing",  
   pdf_mode = params$pdf_mode
 )
 ```
@@ -56,11 +56,11 @@ CV %<>% print_text_block("intro")
 
 <br>
 
-Recent professional experience {data-icon=suitcase}
+Relevant professional experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ::: aside
-**Contact & Portfolio**
+**Contact**
 
 <i class="fa fa-home"></i> [lucasmoraes.io](https://lucasmoraes.io)
 
@@ -69,8 +69,6 @@ Recent professional experience {data-icon=suitcase}
 <i class="fa fa-github"></i> [GitHub: `@`moraessaur](https://github.com/moraessaur)
 
 <i class="fab fa-linkedin-in"></i> [LinkedIn](https://www.linkedin.com/in/lucas-moraes-78944a32/)
-
-[**Download this CV**](https://raw.githubusercontent.com/moraessaur/cv_english/main/cv_lucas_moraes_en.pdf)
 
 :::
 
@@ -100,7 +98,7 @@ CV %<>% print_text_block('recent_professional_experience_aside')
 ```
 
 
-**Technical knowledge**
+**Technical stack**
 **__________________**
 
 <i class="fab fa-r-project"></i> **R**
